@@ -1,4 +1,7 @@
 # Dependencies
+/.history
+
+# Dependencies
 /node_modules
 
 # Production
